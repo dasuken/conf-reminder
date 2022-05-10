@@ -9,8 +9,8 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    titleTemplate: '%s - voice-freee',
-    title: 'voice-freee',
+    titleTemplate: '%s - kaigi-open',
+    title: 'kaigi-open',
     htmlAttrs: {
       lang: 'en'
     },
