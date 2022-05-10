@@ -8,12 +8,9 @@
       color="deep-orange accent-2"
       flat
     >
-      <v-icon
-        large
-        color="white"
-      >
-        mdi-domain
-      </v-icon>
+      <div class="white--text text-h5">
+        会議開くくん
+      </div>
     </v-app-bar>
     <v-main class="grey lighten-4">
       <div class="mx-auto white" style="max-width: 450px;">

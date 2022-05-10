@@ -14,10 +14,7 @@
     </v-snackbar>
     <div class="title deep-orange--text text--accent-2 pt-5">
       <div class="font-weight-black text-center">
-        簡単に会議が開けるやつです
-      </div>
-      <div class="mt-3 font-weight-black text-center text-h4">
-        会議開くくん
+        簡単に定例会議を登録できる
       </div>
     </div>
     <div class="d-flex justify-space-around mt-10">
